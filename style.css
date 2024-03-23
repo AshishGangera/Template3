@@ -1,0 +1,167 @@
+.top {
+    display: flex;
+}
+
+.img {
+    background-image: url("bg.jpg");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.color {
+    position: absolute;
+    height: 174.6%;
+    width: 100%;
+    background-color: rgba(0, 255, 255, 0.208);
+}
+
+.top-right {
+    position: absolute;
+    right: 0;
+    margin-right: 11%;
+    background-color: #FAFA33;
+    height: 500px;
+    width: 350px;
+}
+
+.cor {
+    position: absolute;
+    right: 0;
+    color: white;
+    padding-top: 35%;
+    font-size: 80px;
+    text-align: right;
+    padding-left: 120px;
+    right: -20px;
+    line-height: 100px;
+}
+
+.line {
+    background-color: #FAFA33;
+    position: absolute;
+    left: 0;
+    height: 15px;
+    width: 73px;
+    margin-top: 8%;
+    margin-left: 12.5%;
+}
+
+.u {
+    font-size: 130px;
+    position: absolute;
+    left: 0;
+    color: white;
+    margin-top: 6.5%;
+    margin-left: 11.8%;
+    letter-spacing: -10px;
+}
+
+.inn {
+    position: absolute;
+    left: 0;
+    color: white;
+    margin-left: 10%;
+    margin-top: 61.5%;
+    font-size: 7.5rem;
+    letter-spacing: 52px;
+    container-type: size;
+}
+
+.our {
+    position: absolute;
+    left: 0;
+    color: white;
+    margin-left: 10.5%;
+    margin-top: 71.5%;
+    font-size: 23px;
+    letter-spacing: 29.5px;
+}
+
+.logo {
+    position: absolute;
+    top: 0;
+    margin-left: 43%;
+    margin-top: 47%;
+}
+
+.here {
+    color: #FAFA33;
+    font-size: 11.563rem;
+    margin-left: 10%;
+}
+
+.line2 {
+    background-color: #000000;
+    height: 3px;
+    width: 79%;
+    opacity: 0.5;
+    margin-left: 165px;
+    margin-top: -30px;
+}
+
+.text {
+    display: flex;
+}
+
+.o {
+    color: #000000;
+    margin-left: 165px;
+    font-size: 35px;
+}
+
+.lorem1 {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.simbol {
+    display: flex;
+}
+
+.sim {
+    margin-left: 150px;
+    margin-top: 45px;
+}
+
+.sim1 {
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.bottom_logo {
+    margin-left: 180px;
+}
+
+.bottom {
+    margin-left: 20px;
+    margin-top: -50px;
+    display: flex;
+    align-items: center;
+}
+
+.white-line {
+    padding-right: 100px;
+    background-color: #000000;
+    height: 8px;
+    width: 50px;
+}
+
+.left-bottom {
+    background-color: #FAFA33;
+    position: absolute;
+    top: 250%;
+    height: 180px;
+    width: 100px;
+}
+
+.right-bottom {
+    background-color: #FAFA33;
+    position: absolute;
+    top: 250%;
+    left: 91%;
+    height: 180px;
+    width: 130px;
+}
